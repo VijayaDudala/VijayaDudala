@@ -1,12 +1,8 @@
 
-#Hi there!
+# Hi there!
 <div align="center">
 
-
-
-<img src="[readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I)'m+Vijaya+Dudala;B.Tech+IT+Student+%7C+Aspiring+SDE;Full+Stack+%7C+AI%2FML+Enthusiast;500%2B+Problems+Solved+on+CodeChef" alt="Typing SVG" />
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vijaya+Dudala;B.Tech+IT+Student+|+Aspiring+SDE;Full+Stack+|+AI/ML+Enthusiast;500%2B+Problems+Solved+on+CodeChef" />
 
 </div>
 
