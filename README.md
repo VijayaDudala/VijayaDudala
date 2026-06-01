@@ -1,5 +1,5 @@
-```md
 
+# Hi there! 👋
 
 <div align="center">
 
@@ -151,4 +151,3 @@ I'm a **B.Tech Information Technology** student passionate about building produc
 <img src="https://komarev.com/ghpvc/?username=VijayaDudala&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
-```
