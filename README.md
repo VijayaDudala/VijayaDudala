@@ -2,7 +2,7 @@
 # Hi there!
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vijaya+Dudala;B.Tech+IT+Student+|+Aspiring+SDE;Full+Stack+|+AI/ML+Enthusiast;500%2B+Problems+Solved+on+CodeChef" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there!;I+am+Vijaya+Dudala;B.Tech+IT+Student;Full+Stack+Developer;AI+and+ML+Enthusiast;500%2B+CodeChef+Problems+Solved" />
 
 </div>
 
