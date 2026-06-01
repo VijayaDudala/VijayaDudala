@@ -96,25 +96,7 @@ I'm a **B.Tech Information Technology** student passionate about building produc
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VijayaDudala&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayaDudala&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayaDudala&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🏆 Competitive Programming
 
