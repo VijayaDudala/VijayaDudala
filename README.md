@@ -1,5 +1,4 @@
 
-# Hi there! 👋
 
 <div align="center">
 
@@ -16,7 +15,7 @@ I'm a **B.Tech Information Technology** student passionate about building produc
 - 🔭 Currently building an **Audio Summarization Tool** using Flask, Whisper & LLMs
 - 🌱 Learning **React.js, Generative AI, LLM Integration, and REST APIs**
 - 🏆 Solved **500+ Problems on CodeChef**
-- 🎯 Seeking **Software Engineering Internship / Placement Opportunities**
+- 🎯 Actively seeking **Software Engineering Internship / Placement Opportunities**
 - 💡 Strong believer in learning through real-world projects
 
 ---
@@ -25,7 +24,7 @@ I'm a **B.Tech Information Technology** student passionate about building produc
 
 ### Languages
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -35,7 +34,7 @@ I'm a **B.Tech Information Technology** student passionate about building produc
 
 ### Frameworks & Libraries
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -44,7 +43,7 @@ I'm a **B.Tech Information Technology** student passionate about building produc
 
 ### AI / ML
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -52,7 +51,7 @@ I'm a **B.Tech Information Technology** student passionate about building produc
 
 ### Tools & Platforms
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -79,21 +78,21 @@ I'm a **B.Tech Information Technology** student passionate about building produc
 
 **Tech Stack:** React.js, TMDB API, JavaScript, CSS
 
-- Netflix-inspired UI
-- Trending & Top Rated Movies
-- Dynamic API Integration
-- Responsive Design
+- Netflix-inspired user interface
+- Trending and Top Rated movie discovery
+- Dynamic TMDB API integration
+- Responsive design across devices
 
 ---
 
-### 🌾 AI Chatbot for Farmers
+### 💰 AI Personal Finance App
 
-**Tech Stack:** Django, AI APIs, Database Integration
+**Tech Stack:** JavaScript, AI APIs, Financial Analytics
 
-- Regional Language Support
-- Crop & Pest Guidance
-- Fertilizer Recommendations
-- Market Price Assistance
+- AI-powered expense tracking
+- Smart spending insights and recommendations
+- Budget planning and goal management
+- Interactive financial dashboard
 
 ---
 
@@ -151,3 +150,14 @@ I'm a **B.Tech Information Technology** student passionate about building produc
 <img src="https://komarev.com/ghpvc/?username=VijayaDudala&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
+
+---
+
+### 💡 Current Focus
+
+- Generative AI & LLM Applications
+- Full Stack Development with React
+- System Design Fundamentals
+- Placement Preparation
+- Building Production-Ready AI Projects
+
